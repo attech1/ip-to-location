@@ -13,3 +13,4 @@ __________________________________________________________________________
 tool in testing
 Version: 1,0                                   
 Update log:                    
+V1.1 added languages and an settings option
