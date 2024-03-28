@@ -3,10 +3,10 @@ IP TO LOCATION|
 pip install PyQt5 requests                                               
 ________________________________                           
 Installation                        
-https://github.com/attech1/ip-to-location.git clone this                         
+cd https://github.com/attech1/ip-to-location.git clone this                         
 Go to the projects directory(cd ip-to-location)
 And run this command:                          
-python3 i-_location-.py                                   
+python3 ip-to-location.py                                   
 _______________________________________                         
 Tiktok:At._.tech                       
 __________________________________________________________________________     
